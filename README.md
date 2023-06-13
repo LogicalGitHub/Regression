@@ -1,2 +1,2 @@
 # Regression
-Data mining
+Modle of Machine Learning
