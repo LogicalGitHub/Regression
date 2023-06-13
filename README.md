@@ -1,2 +1,2 @@
 # Regression
-Modle of Machine Learning
+Modle of Machine Learning.
